@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.2.1"
+  },
+  "name": "mylab",
+  "version": "1.0.0",
+  "description": "Lab 6",
+  "main": "server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "server.js"
+  },
+  "author": "Youssef Ragab",
+  "license": "ISC"
+}
